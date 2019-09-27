@@ -1,2 +1,2 @@
 # tex_test
-test code for tex
+LaTeXの会で使用するTexのテストコードです．
